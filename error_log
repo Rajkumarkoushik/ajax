@@ -1,0 +1,20 @@
+[12-Oct-2022 09:09:31 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home1/a16646ib/public_html/contact.php on line 142
+[12-Oct-2022 09:09:33 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home1/a16646ib/public_html/contact.php on line 142
+[12-Oct-2022 09:10:33 UTC] PHP Warning:  Undefined variable $con in /home1/a16646ib/public_html/contact.php on line 5
+[12-Oct-2022 09:10:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home1/a16646ib/public_html/contact.php:5
+Stack trace:
+#0 /home1/a16646ib/public_html/contact.php(5): mysqli_real_escape_string(NULL, 'vikram adithya')
+#1 {main}
+  thrown in /home1/a16646ib/public_html/contact.php on line 5
+[12-Oct-2022 09:15:36 UTC] PHP Warning:  Undefined variable $con in /home1/a16646ib/public_html/contact.php on line 5
+[12-Oct-2022 09:15:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home1/a16646ib/public_html/contact.php:5
+Stack trace:
+#0 /home1/a16646ib/public_html/contact.php(5): mysqli_real_escape_string(NULL, 'vikram adithya')
+#1 {main}
+  thrown in /home1/a16646ib/public_html/contact.php on line 5
+[12-Oct-2022 09:17:43 UTC] PHP Warning:  Undefined variable $con in /home1/a16646ib/public_html/contact.php on line 5
+[12-Oct-2022 09:17:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home1/a16646ib/public_html/contact.php:5
+Stack trace:
+#0 /home1/a16646ib/public_html/contact.php(5): mysqli_real_escape_string(NULL, 'vikram adithya')
+#1 {main}
+  thrown in /home1/a16646ib/public_html/contact.php on line 5

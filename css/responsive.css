@@ -1,0 +1,15 @@
+/* @media(max-width : 1300px){
+    .call-buton{
+        margin-left: 0;
+    }
+} */
+
+@media screen and (max-width: 425px) {
+    .slides_sec {
+        width: 100%;
+        height: 40vh;
+        position: relative;
+        overflow: hidden;
+    }
+    }
+    
