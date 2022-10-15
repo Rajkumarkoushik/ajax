@@ -9105,7 +9105,16 @@ h3.slider-text {
     right: -14px;
     cursor: pointer;
 }
-
+.brouchere{
+    background-color: #001f3f;
+    position: absolute;
+    left: 0rem;
+    top: 1rem;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+}
 
 
 /* Ongoing section ends */

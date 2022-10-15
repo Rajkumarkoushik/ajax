@@ -20,7 +20,22 @@ include "includes/header.php";
 <!-- Bredcrums section ends -->
 
 <!-- Completed projects section starts -->
-  <section class=" completed-main">        
+  <section class=" completed-main">    
+      <div class="card completed-sec" style="max-width: 540px">
+            <div class="row no-gutters">
+              <div class="col-md-4">
+                <img src=".\img\mvv pictures\mvv-beach-pearl.png" alt="..." class="card-img-ongoing" />
+              </div>
+              <div class="col-md-8">
+                <div class="card-body card-content">
+                  <h4 class="card-title">Name : MVV Beach Pearl</h4>
+                  <h4>Year : 2022</h4>
+                  <h4>No.of Units : 05</h4>
+                  <h4>Location : Beach Road</h4>
+                </div>
+              </div>
+            </div>
+      </div>     
       <div class="card completed-sec" style="max-width: 540px">
             <div class="row">
               <div class="col-md-4">
@@ -1071,6 +1086,7 @@ include "includes/header.php";
               </div>
             </div>
       </div>             
+                            
   </section>
 
 <!-- Completed projects section ends -->

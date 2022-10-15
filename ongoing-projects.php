@@ -52,45 +52,52 @@ include "includes/header.php";
     <section class ="container ongoing-main">
         <div class="ongoing-projects">
             <div data-aos="fade-up" class="ongoing-img">
-                <a href=".\img\fwdbrochures\MVV GREEN FIELD BROUCHURE.pdf" download><img src="./img/ongoing/mvv-green-field.jpg" class="img-on" alt=""></a>
+                <img src="./img/ongoing/mvv-green-field.jpg" class="img-on" alt="">
+                <a href=".\img\fwdbrochures\MVV GREEN FIELD BROUCHURE.pdf" download><button class="brouchere" > Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title">MVV Green Field, Yandada</h4>
                 </div>
             </div>
             <div data-aos="fade-up" class=" ongoing-img">
-                <a href=""><img src="./img/ongoing/mvv-green-gardens.jpg" class="img-one" alt=""></a>
+                <img src="./img/ongoing/mvv-green-gardens.jpg" class="img-one" alt="">
+                <a href=".\img\fwdbrochures\MVV GREEN GARDENS UPDATED PDF.pdf"><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-one">MVV Green Gardens, Yandada</h4>
                 </div>
             </div>
             <div data-aos="fade-up" class="ongoing-img">
-                <a href=".\img\fwdbrochures\MVV Sunrise FINAL.pdf" download><img src="./img/ongoing/mvv-gv-sunrise.jpg" class="img-two" alt=""></a>
+                <img src="./img/ongoing/mvv-gv-sunrise.jpg" class="img-two" alt="">
+                <a href=".\img\fwdbrochures\MVV Sunrise FINAL.pdf" download><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-two">MVV & Gv Sunrise, RTC Colony</h4>
                 </div>
             </div>
       
             <div data-aos="fade-up" class=" ongoing-img">
-                <a href=".\img\fwdbrochures\MVV MERIDIAN.pdf" download><img src="./img/ongoing/mvv-meredian-home.jpg" class="img-four" alt=""></a>
+                <img src="./img/ongoing/mvv-meredian-home.jpg" class="img-four" alt="">
+                <a href=".\img\fwdbrochures\MVV MERIDIAN.pdf" download><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-four">MVV Meredian Home, RTC Colony</h4>
                 </div>
             </div>
     
             <div data-aos="fade-up" class=" ongoing-img">
-                <a href=""><img src="./img/ongoing/mvv-orion.jpg" class="img-six" alt=""></a>
+                <img src="./img/ongoing/mvv-orion.jpg" class="img-six" alt="">
+                <a href=""><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-six">MVV Orion, Kommadi</h4>
                 </div>
             </div>
             <div data-aos="fade-up" class="ongoing-img">
-                <a href=".\img\fwdbrochures\ORCHID BROWCHER.pdf" download><img src="./img/ongoing/Orchid.jpg" class="img-seven" alt=""></a>
+                <img src="./img/ongoing/Orchid.jpg" class="img-seven" alt="">
+                <a href=".\img\fwdbrochures\ORCHID BROWCHER.pdf" download><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-seven">Orchid, P.M Palem</h4>
                 </div>
             </div>
             <div data-aos="fade-up" class="ongoing-img">
-                <a href=".\img\fwdbrochures\PINNACLE HOMES.pdf" download><img src="./img/ongoing/pinnacle.jpg" class="img-eight" alt=""></a>
+                <img src="./img/ongoing/pinnacle.jpg" class="img-eight" alt="">
+                <a href=".\img\fwdbrochures\PINNACLE HOMES.pdf" download><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-eight">MVV Pinnacle Homes , RTC Colony</h4>
                 </div>
@@ -98,19 +105,22 @@ include "includes/header.php";
         
         
             <div data-aos="fade-up" class="ongoing-img">
-                <a href=".\img\fwdbrochures\MVV SATYA HOME.pdf" download><img src="./img/ongoing/satya-homes.jpg" class="img-nine" alt=""></a>
+                <img src="./img/ongoing/satya-homes.jpg" class="img-nine" alt="">
+                <a href=".\img\fwdbrochures\MVV SATYA HOME.pdf" download><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-nine">MVV Satya Homes, Seethammadara</h4>
                 </div>
             </div>
             <div data-aos="fade-up" class=" ongoing-img silver-homes">
-                <a href=""><img src=".\img\mvv-silver-homes.jpg" class="img-ten" alt=""></a>
+                <img src=".\img\mvv-silver-homes.jpg" class="img-ten" alt="">
+                <a href=""><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-ten">MVV Silver Homes, Yandada</h4>
                 </div>
             </div>
             <div data-aos="fade-up" class="ongoing-img">
-                <a href=".\img\fwdbrochures\MVV LAKSHMI RESIDENCY (2).pdf" download><img src=".\img\remaining-ongoing\laxmi.jpg" class="img-fourteen"alt=""></a>
+                <img src=".\img\remaining-ongoing\laxmi.jpg" class="img-fourteen"alt="">
+                <a href=".\img\fwdbrochures\MVV LAKSHMI RESIDENCY (2).pdf" download><button class="brouchere" >Download Brouchure</button></a>
                 <div data-aos="fade-down" class="ongoing-title">
                     <h4 class="on-title-fourteen">MVV Lakshmi Residency, Yendada</h4>
                 </div>
